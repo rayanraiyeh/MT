@@ -1,0 +1,27 @@
+body {
+    background-color: #D4E6F7;
+}
+
+
+.MuiInputBase-input {
+    height: 10px !important;
+}
+
+.css-1q60rmi-MuiAutocomplete-endAdornmen {
+    top: calc(50% - 22px)
+}
+
+
+.css-1q60rmi-MuiAutocomplete-endAdornment {
+    top: calc(50% - 24px)
+}
+
+.css-b0eipm-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-endAdornment {
+    /* top:0 */
+}
+.css-n56wa4-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-endAdornment{
+    top: 0;
+}
+.css-b0eipm-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-endAdornment{
+    top:0 !important;
+}
